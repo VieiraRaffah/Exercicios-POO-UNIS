@@ -1,2 +1,3 @@
-# classe-Pessoa
-Curso POO - UNIS
+# Curso POO - UNIS
+
+Esse foi o Projeto de Criação de Classe
