@@ -1,3 +1,3 @@
 # Curso POO - UNIS
 
-Esse foi o Projeto de Criação de Classe
+Irei Publicar aqui as Atividades solicitadas no Curso de Análise e Desenvolvimento de Sistemas - UNIS.
