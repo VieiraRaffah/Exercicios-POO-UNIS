@@ -65,15 +65,6 @@ public class Pessoa {
         System.out.println(alunoPessoa.getUF());
         System.out.println(alunoPessoa.getIdade());
 
-        Pessoa alunoProfessor = new Pessoa("Alberane Lúcio", "Thiago da Cunha", 
-            "Avenida Alzira Barra Gazzola, 650 - Aeroporto", "Varginha", "MG", 30);
-
-        System.out.println(alunoProfessor.getNome());
-        System.out.println(alunoProfessor.getSobrenome());
-        System.out.println(alunoProfessor.getEndereco());
-        System.out.println(alunoProfessor.getCidade());
-        System.out.println(alunoProfessor.getUF());
-        System.out.println(alunoProfessor.getIdade());
     }
     
 }
